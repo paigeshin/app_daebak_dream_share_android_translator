@@ -1,0 +1,726 @@
+[
+    {
+        "-name": "app_name",
+        "#text": "What did you do?"
+    },
+    {
+        "-name": "google_banner_production",
+        "#text": "ca-app-pub-4343533631062740/7101403275"
+    },
+    {
+        "-name": "google_reward_production",
+        "#text": "ca-app-pub-4343533631062740/1890913975"
+    },
+    {
+        "-name": "google_interstitial_production",
+        "#text": "ca-app-pub-4343533631062740/6951668969"
+    },
+    {
+        "-name": "google_native_production",
+        "#text": "ca-app-pub-4343533631062740/4016182736"
+    },
+    {
+        "-name": "google_banner_test",
+        "#text": "ca-app-pub-3940256099942544/6300978111"
+    },
+    {
+        "-name": "google_reward_test",
+        "#text": "ca-app-pub-3940256099942544/5224354917"
+    },
+    {
+        "-name": "google_interstitial_test",
+        "#text": "ca-app-pub-3940256099942544/1033173712"
+    },
+    {
+        "-name": "google_native_test",
+        "#text": "ca-app-pub-3940256099942544/2247696110"
+    },
+    {
+        "-name": "google_native_ad_dialog_button_go_review",
+        "#text": "Go Review"
+    },
+    {
+        "-name": "google_native_ad_dialog_button_finish",
+        "#text": "Finish"
+    },
+    {
+        "-name": "dialog_progress_please_wait",
+        "#text": "Please wait"
+    },
+    {
+        "-name": "yes",
+        "#text": "Yes"
+    },
+    {
+        "-name": "no",
+        "#text": "No"
+    },
+    {
+        "-name": "ok",
+        "#text": "OK"
+    },
+    {
+        "-name": "cancel",
+        "#text": "Cancel"
+    },
+    {
+        "-name": "full_screen",
+        "#text": "full"
+    },
+    {
+        "-name": "backup",
+        "#text": "BackUp"
+    },
+    {
+        "-name": "restore",
+        "#text": "Restore Purchase"
+    },
+    {
+        "-name": "restore_data",
+        "#text": "Restore Data"
+    },
+    {
+        "-name": "default_english",
+        "#text": "Default English"
+    },
+    {
+        "-name": "premium",
+        "#text": "Premium"
+    },
+    {
+        "-name": "email",
+        "#text": "Email"
+    },
+    {
+        "-name": "my_email",
+        "#text": "paigesoftware@gmail.com"
+    },
+    {
+        "-name": "subject",
+        "#text": "Subject"
+    },
+    {
+        "-name": "enter_message_here",
+        "#text": "Enter message here…"
+    },
+    {
+        "-name": "send_email",
+        "#text": "send Email"
+    },
+    {
+        "-name": "choose_email_client",
+        "#text": "Choose Email Client…"
+    },
+    {
+        "-name": "rationale_dialog_it_looks_like_you_have_turned_down_permission_required_for_this_feature",
+        "#text": "It looks like you have turned down permission required for this feature. It can be enabled on the application\\'s settings"
+    },
+    {
+        "-name": "rationale_dialog_go_to_settings",
+        "#text": "GO TO SETTINGS"
+    },
+    {
+        "-name": "rationale_dialog_cancel",
+        "#text": "Cancel"
+    },
+    {
+        "-name": "nav_home",
+        "#text": "Home"
+    },
+    {
+        "-name": "nav_my_page",
+        "#text": "My Page"
+    },
+    {
+        "-name": "nav_goals",
+        "#text": "Notebook"
+    },
+    {
+        "-name": "nav_timeline",
+        "#text": "Timeline"
+    },
+    {
+        "-name": "nav_share",
+        "#text": "Share"
+    },
+    {
+        "-name": "dialog_color_list_select_label_color",
+        "#text": "Select Label Color"
+    },
+    {
+        "-name": "preferences_push_message_title",
+        "#text": "Daily Alarm"
+    },
+    {
+        "-name": "preferences_push_message_text",
+        "#text": "Daily Alarm"
+    },
+    {
+        "-name": "menu_goal",
+        "#text": "Create Note"
+    },
+    {
+        "-name": "menu_video",
+        "#text": "video"
+    },
+    {
+        "-name": "menu_update",
+        "#text": "update"
+    },
+    {
+        "-name": "menu_file",
+        "#text": "file"
+    },
+    {
+        "-name": "menu_delete",
+        "#text": "delete"
+    },
+    {
+        "-name": "menu_check",
+        "#text": "check"
+    },
+    {
+        "-name": "menu_camera",
+        "#text": "camera"
+    },
+    {
+        "-name": "menu_audio",
+        "#text": "audio"
+    },
+    {
+        "-name": "menu_settings",
+        "#text": "settings"
+    },
+    {
+        "-name": "notification_content_title",
+        "#text": "Note Diary"
+    },
+    {
+        "-name": "notification_text",
+        "#text": "What did you do today?"
+    },
+    {
+        "-name": "notification_ticker_track_your_success",
+        "#text": "Track your day!"
+    },
+    {
+        "-name": "toast_please_click_back_again_to_exit",
+        "#text": "Please click back again to exit"
+    },
+    {
+        "-name": "toast_please_fill_out_all_empty_fields",
+        "#text": "Please, fill out all empty fields"
+    },
+    {
+        "-name": "toast_error_occurred_please_try_again",
+        "#text": "Error occurred, please try again!"
+    },
+    {
+        "-name": "toast_please_select_premium_option",
+        "#text": "Please select premium option in order to use this feature!"
+    },
+    {
+        "-name": "toast_backup_is_successful",
+        "#text": "Backup is successful!"
+    },
+    {
+        "-name": "toast_restore_is_successful",
+        "#text": "Restore is successful!"
+    },
+    {
+        "-name": "toast_restore_failed_try_again",
+        "#text": "Restore failed… try again."
+    },
+    {
+        "-name": "toast_please_fill_out_all_blank",
+        "#text": "Please, fill out all blank or give more than four characters"
+    },
+    {
+        "-name": "toast_failed_to_backup",
+        "#text": "failed to backup"
+    },
+    {
+        "-name": "toast_thank_you_for_the_review",
+        "#text": "Thank you for the review!"
+    },
+    {
+        "-name": "toast_error_please_try_again",
+        "#text": "Error! Please try again…"
+    },
+    {
+        "-name": "activity_timeline_delete_post",
+        "#text": "Delete Post"
+    },
+    {
+        "-name": "activity_timeline_are_you_sure_to_delete_this_post",
+        "#text": "Are you sure to delete this post?"
+    },
+    {
+        "-name": "activity_timeline_create_note",
+        "#text": "Create Your First Notebook"
+    },
+    {
+        "-name": "activity_timeline_looks_like_you_dont_have_note",
+        "#text": "Looks like you don\\'t have any note. Create one?"
+    },
+    {
+        "-name": "activity_timeline_create_your_first_post",
+        "#text": "Create your first post"
+    },
+    {
+        "-name": "activity_detail_increment_time_textview_demo_text",
+        "#text": "00:00"
+    },
+    {
+        "-name": "activity_detail_decrement_time_textview_demo_text",
+        "#text": "00:00"
+    },
+    {
+        "-name": "activity_detail_imagebutton_play",
+        "#text": "imagebutton play"
+    },
+    {
+        "-name": "activity_detail_imagebutton_pause",
+        "#text": "imagebutton pause"
+    },
+    {
+        "-name": "activity_detail_day_textview_demo_text",
+        "#text": "07"
+    },
+    {
+        "-name": "activity_detail_date_textview_demo_text",
+        "#text": "January 7, 2021"
+    },
+    {
+        "-name": "activity_detail_hour_textview_demo_text",
+        "#text": "Thursday 1:06 AM"
+    },
+    {
+        "-name": "activity_main_close_calendar",
+        "#text": "Close Calendar"
+    },
+    {
+        "-name": "activity_main_Show_calendar",
+        "#text": "Show Calendar"
+    },
+    {
+        "-name": "activity_main_show_and_close_calendar_image_content_description",
+        "#text": "show and close calendar"
+    },
+    {
+        "-name": "activity_main_no_journal_found_on_this_day",
+        "#text": "No journal is found on this day"
+    },
+    {
+        "-name": "activity_main_alarm_settings_content_description",
+        "#text": "Alarm Settings"
+    },
+    {
+        "-name": "activity_main_alarm_settings",
+        "#text": "Alarm Settings"
+    },
+    {
+        "-name": "activity_main_decide_when_to_write_your_journey",
+        "#text": "Decide when to write your journey!"
+    },
+    {
+        "-name": "activity_main_textview_month_demo_text",
+        "#text": "February, 2024"
+    },
+    {
+        "-name": "activity_main_select_goal",
+        "#text": "Select Note"
+    },
+    {
+        "-name": "activity_main_icon_content_description",
+        "#text": "icon"
+    },
+    {
+        "-name": "activity_main_goal_setting",
+        "#text": "Create Note"
+    },
+    {
+        "-name": "activity_main_do_you_have_any_goals_in_mind",
+        "#text": "Do you have anything in mind?"
+    },
+    {
+        "-name": "activity_main_write_what_you_did_for_your_success_today",
+        "#text": "Write what you did today"
+    },
+    {
+        "-name": "activity_main_goals_floating_create_goal_button",
+        "#text": "floating create note button"
+    },
+    {
+        "-name": "activity_main_calendar_left_button_content_description",
+        "#text": "calendar left imageview button"
+    },
+    {
+        "-name": "activity_main_calendar_right_button_content_description",
+        "#text": "calendar right imageveiw button"
+    },
+    {
+        "-name": "activity_main_create_note",
+        "#text": "Create Your First Notebook"
+    },
+    {
+        "-name": "activity_main_looks_like_you_dont_have_note",
+        "#text": "Looks like you don\\'t have any note. Create one?"
+    },
+    {
+        "-name": "activity_create_create_your_first_notebook",
+        "#text": "Create your first notebook"
+    },
+    {
+        "-name": "activity_goal_alert_dialog_simple_option_delete_delete_this_goal",
+        "#text": "Delete this note?"
+    },
+    {
+        "-name": "activity_goal_alert_dialog_simple_option_delete_are_you_sure_to_delete_this_goal",
+        "#text": "Are you sure you want to delete this note?"
+    },
+    {
+        "-name": "activity_goal_content_description",
+        "#text": "Description"
+    },
+    {
+        "-name": "activity_goal_content_select_color",
+        "#text": "Select Color"
+    },
+    {
+        "-name": "activity_goal_content_label_color",
+        "#text": "Label Color"
+    },
+    {
+        "-name": "activity_goal_content_subtitle",
+        "#text": "Subtitle"
+    },
+    {
+        "-name": "activity_goal_content_goal_name",
+        "#text": "Note Name"
+    },
+    {
+        "-name": "activity_create_goal_please_enter_title",
+        "#text": "Please enter title"
+    },
+    {
+        "-name": "activity_create_goal_please_enter_subtitle",
+        "#text": "Please enter subtitle"
+    },
+    {
+        "-name": "activity_create_goal_please_enter_description",
+        "#text": "Please enter description"
+    },
+    {
+        "-name": "activity_create_goal_create_a_new_goal",
+        "#text": "Create A New Note"
+    },
+    {
+        "-name": "activity_create_goal_update_goal",
+        "#text": "Update Note"
+    },
+    {
+        "-name": "activity_create_goal_write_description_hint",
+        "#text": "write description"
+    },
+    {
+        "-name": "activity_create_post_hint_write_your_journey_here",
+        "#text": "write your journey here"
+    },
+    {
+        "-name": "activity_create_post_cancel_photo_selection_for_post",
+        "#text": "cancel photo selection for post"
+    },
+    {
+        "-name": "activity_create_post_cancel_video",
+        "#text": "Cancel Video"
+    },
+    {
+        "-name": "activity_create_post_select_action",
+        "#text": "Select Action"
+    },
+    {
+        "-name": "activity_create_post_option_camera",
+        "#text": "📷 Camera"
+    },
+    {
+        "-name": "activity_create_post_option_album",
+        "#text": "📓 Album"
+    },
+    {
+        "-name": "activity_create_post_option_video",
+        "#text": "📹 Video"
+    },
+    {
+        "-name": "activity_create_post_option_video_album",
+        "#text": "📔 Video Album"
+    },
+    {
+        "-name": "activity_create_post_option_video_record",
+        "#text": "💿 Voice Record"
+    },
+    {
+        "-name": "activity_create_post_select_media",
+        "#text": "Select Media"
+    },
+    {
+        "-name": "activity_create_post_record_video",
+        "#text": "📹 Record Video"
+    },
+    {
+        "-name": "activity_create_post_choose_video_from_album",
+        "#text": "📓 Choose Video from Album"
+    },
+    {
+        "-name": "activity_create_post_select_photo",
+        "#text": "Select Photo"
+    },
+    {
+        "-name": "activity_create_post_delete_this_photo",
+        "#text": "Delete this photo?"
+    },
+    {
+        "-name": "activity_create_post_are_you_sure_to_delete_this_photo",
+        "#text": "Are you sure to delete this photo?"
+    },
+    {
+        "-name": "activity_create_post_delete_all_photos",
+        "#text": "Delete all photos?"
+    },
+    {
+        "-name": "activity_create_post_are_you_sure_to_delete_all_photos",
+        "#text": "Are you sure to delete all photos?"
+    },
+    {
+        "-name": "activity_create_post_delete_this_video",
+        "#text": "Delete this video?"
+    },
+    {
+        "-name": "activity_create_post_are_you_sure_to_delete_this_video",
+        "#text": "Are you sure to delete this video?"
+    },
+    {
+        "-name": "activity_create_post_delete_this_record",
+        "#text": "Delete this record?"
+    },
+    {
+        "-name": "activity_create_post_are_you_sure_to_delete_this_reord",
+        "#text": "Are you sure to delete this record?"
+    },
+    {
+        "-name": "activity_create_post_it_looks_like_you_have_turned_down_permission",
+        "#text": "It looks like you have turned down permission required for this feature. It can be enabled in your application\\'s settings"
+    },
+    {
+        "-name": "activity_create_post_go_to_settings",
+        "#text": "GO TO SETTINGS"
+    },
+    {
+        "-name": "activity_create_post_imagebutton_record_content_description",
+        "#text": "imagebutton record"
+    },
+    {
+        "-name": "activity_create_post_imagebutton_pause_content_description",
+        "#text": "imagebutton pause"
+    },
+    {
+        "-name": "activity_create_post_imagebutton_play_content_description",
+        "#text": "imagebutton play"
+    },
+    {
+        "-name": "activity_create_post_imagebutton_stop_content_description",
+        "#text": "imagebutton stop"
+    },
+    {
+        "-name": "activity_create_post_imageview_rerecord_content_description",
+        "#text": "imageview button rerecord"
+    },
+    {
+        "-name": "activity_create_post_textview_timer",
+        "#text": "00:00:00"
+    },
+    {
+        "-name": "activity_settings_settings",
+        "#text": "Settings"
+    },
+    {
+        "-name": "activity_settings_password_dialog_title",
+        "#text": "Password for backup file"
+    },
+    {
+        "-name": "activity_settings_dialog_title_restore_complete",
+        "#text": "Restore Complete"
+    },
+    {
+        "-name": "activity_settings_dialog_content_in_order_to_apply_restored_data_you_need_to",
+        "#text": "In order to apply restored data, you need to restart the application! Would you restart application?"
+    },
+    {
+        "-name": "item_goal_create_your_first_goal",
+        "#text": "Create your first note"
+    },
+    {
+        "-name": "item_goal_a_new_goal",
+        "#text": "Add a new note"
+    },
+    {
+        "-name": "item_goal_demo_text",
+        "#text": "Note Book"
+    },
+    {
+        "-name": "item_goal_subtitle",
+        "#text": "Subtitle"
+    },
+    {
+        "-name": "item_goal_main",
+        "#text": "Main"
+    },
+    {
+        "-name": "item_goal_camera_icon_content_description",
+        "#text": "camera_icon"
+    },
+    {
+        "-name": "item_goal_modification_icon_content_description",
+        "#text": "modification_icon"
+    },
+    {
+        "-name": "item_goal_delete_icon_content_description",
+        "#text": "delete_icon"
+    },
+    {
+        "-name": "item_goal_image_view_star_content_description",
+        "#text": "image_view_star_content_description"
+    },
+    {
+        "-name": "item_label_color_check_image_content_description",
+        "#text": "check_image"
+    },
+    {
+        "-name": "item_post_post_type_content_icon",
+        "#text": "post type content icon"
+    },
+    {
+        "-name": "item_post_day_demo_text",
+        "#text": "4"
+    },
+    {
+        "-name": "item_post_name_of_day_demo_text",
+        "#text": "Mon"
+    },
+    {
+        "-name": "item_post_time_demo_text",
+        "#text": "8: 07 PM"
+    },
+    {
+        "-name": "item_post_objective_demo_text",
+        "#text": "Losing Weight"
+    },
+    {
+        "-name": "item_post_descriptive_text_demo_text",
+        "#text": "any text here to show"
+    },
+    {
+        "-name": "item_post_date_demo_text",
+        "#cdata-section": "January 4, 2020 >"
+    },
+    {
+        "-name": "item_post_image_content_description",
+        "#text": "image in post"
+    },
+    {
+        "-name": "item_photo_imageview_photo_description",
+        "#text": "imageview_photo_content_description"
+    },
+    {
+        "-name": "item_photo_imageview_button_cancel_content_description",
+        "#text": "imageview_button_cancel"
+    },
+    {
+        "-name": "item_photo_viewpager_content_description",
+        "#text": "image photo swipe"
+    },
+    {
+        "-name": "item_photo_viewpager_content_description_multi_image_display_icon",
+        "#text": "multi image display icon"
+    },
+    {
+        "-name": "item_goal_selection_demo_text_goal",
+        "#text": "Losing Weight"
+    },
+    {
+        "-name": "activity_premium_textview_title",
+        "#text": "JOURNAl, WHAT DID YOU DO?"
+    },
+    {
+        "-name": "activity_premium_main_title",
+        "#text": "PREMIMUM"
+    },
+    {
+        "-name": "activity_premium_subtitle",
+        "#text": "REMEMBER YOUR MOMENTS BY WRITING EVERYTHING"
+    },
+    {
+        "-name": "activity_premium_price_tag",
+        "#text": "BUY PREMIUM"
+    },
+    {
+        "-name": "activity_premium_start_content_description",
+        "#text": "star_description_not_display"
+    },
+    {
+        "-name": "activity_premium_close_button_content_description_not_display",
+        "#text": "close_button_not_display"
+    },
+    {
+        "-name": "activity_premium_content_description_no_ad",
+        "#text": "no ad"
+    },
+    {
+        "-name": "activity_premium_textview_no_ads",
+        "#text": "NO ADS"
+    },
+    {
+        "-name": "activity_premium_textview_remove_all_advertisements",
+        "#text": "REMOVE ALL ADVERTISEMENTS"
+    },
+    {
+        "-name": "activity_premium_note_not_display",
+        "#text": "note_not_display"
+    },
+    {
+        "-name": "activity_premium_unlimited_notes",
+        "#text": "UNLIMITED NOTES"
+    },
+    {
+        "-name": "activity_premium_get_unlimited_notes",
+        "#text": "GET UNLIMITED NOTES FOR KEEPING YOUR EVERYDAY LIFE"
+    },
+    {
+        "-name": "activity_premium_background_imageview",
+        "#text": "imageview_background"
+    },
+    {
+        "-name": "activity_premium_imageview_unlimited_backup",
+        "#text": "imageview unlimited backup"
+    },
+    {
+        "-name": "activity_premium_textview_keep_your_data",
+        "#text": "KEEP YOUR DATA"
+    },
+    {
+        "-name": "activity_premium_unlimited_backp_process_for_your_journey",
+        "#text": "UNLIMITED BACKUP PROCESS FOR YOUR JOURNEY"
+    },
+    {
+        "-name": "activity_premium_button_restore_purchases",
+        "#text": "RESTORE PURCHASES"
+    },
+    {
+        "-name": "splash_what_did_you_do",
+        "#text": "whatdidyoudo_splash"
+    },
+    {
+        "-name": "share_this_application",
+        "#text": "Share This Application"
+    }
+]
