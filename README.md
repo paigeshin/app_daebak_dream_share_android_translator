@@ -1,5 +1,8 @@
 # How to use
 
+.env 파일이 그대로 올라가서 api key 재발급 받고 다시 올림.
+
+
 I. sophisticate data
 
 - strings.xml => json using this website, [XML_TO_JSON](http://www.utilities-online.info/xmltojson/#.YAbGDi2l124) 
